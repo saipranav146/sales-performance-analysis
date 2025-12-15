@@ -1,33 +1,32 @@
 # Sales Performance & Revenue Analysis
 
 ## Project Overview
-This project analyzes sales data to identify revenue trends, category performance, regional profitability, and top-performing products. The analysis was performed using Python, SQL, and Power BI.
+This project analyzes sales data to identify revenue trends, category performance, regional profitability, and top-performing products. The goal is to support business decision-making using data-driven insights.
 
-## Tools Used
-- Python (Pandas, Matplotlib) – Data cleaning & analysis
-- SQL (SQLite) – Business queries and aggregations
-- Power BI – Interactive dashboard and visualization
+## Tools & Technologies
+- Python (Pandas) – data cleaning and analysis
+- SQL (MySQL / SQLite) – aggregations and business queries
+- Power BI – interactive dashboard and KPIs
+- Excel – basic data preparation
 
-## Key Analysis Performed
-- Total Sales, Profit, Orders, and Profit Margin KPIs
+## Analysis Performed
+- Total sales, profit, and profit margin KPIs
 - Monthly sales trend analysis
-- Category-wise sales and profit analysis
-- Region-wise profit analysis
-- Top 10 products by sales
+- Category-wise and region-wise performance
+- Top products by sales using SQL queries
 
-## Files in This Repository
-- `Sales_Performance_Analysis.ipynb` – Python analysis notebook
-- `Sales_Performance_Dashboard.pbix` – Power BI dashboard
-- `sales_analysis.sql` – SQL queries used for analysis
-- `clean_superstore.csv` – Cleaned dataset
-
-## Business Insights
-- Technology category contributes the highest revenue
+## Key Insights
+- Technology category shows strong profitability
 - West region is the most profitable
-- Sales peak during year-end months, indicating seasonality
+- Sales peak during year-end months
 - A small number of products contribute a large share of revenue
 
-## Conclusion
-This project demonstrates end-to-end data analysis skills, including data cleaning, SQL querying, dashboard creation, and business insight generation.
+## Files in This Repository
+- `Sales_Performance_Analysis.ipynb` – Python analysis
+- `sales_analysis.sql` – SQL queries
+- `Sales_Performance_Dashboard.pbix` – Power BI dashboard
+- `clean_superstore.csv` – cleaned dataset
 
+## Conclusion
+This project demonstrates end-to-end data analysis skills using Python, SQL, and Power BI.
 
